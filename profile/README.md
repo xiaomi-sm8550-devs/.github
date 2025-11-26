@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xiaomi-sm8550-devs/.github/main/banner.png" width="180" height="180" alt="Xiaomi SM8550 Developers Logo">
+  <img src="https://raw.githubusercontent.com/xiaomi-sm8550-devs/.github/main/banner.png" width="100%" alt="Xiaomi SM8550 Developers Logo">
   <h1>Xiaomi SM8550 Developers For LineageOS</h1>
   <p>
     <strong>Fuxi</strong> • <strong>Nuwa</strong> • <strong>Socrates</strong> • <strong>Vermeer</strong>
